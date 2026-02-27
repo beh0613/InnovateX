@@ -1,20 +1,9 @@
-<<<<<<< HEAD
-# smartgig
+SmartGig App
+Flow of Run: 
+1. Need to dowload the smargig(passenger version) to make sure your location have nearby job request
+   Github:
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# InnovateX
->>>>>>> d5b500eee68ef29a0d03edd87c917b0b50c1a147
+2. Download this smargig driver version and create and sign in into system.
+3. Click "Go Online" button to make sure driver is ready to find job.
+4. There will display the location symbol if there have any nearby job to driver.
+5. Driver can tap to view safety risk analysis to decide whether accept or decline the ride requests.
